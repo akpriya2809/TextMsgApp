@@ -1,0 +1,41 @@
+body{
+	background: aliceblue;
+}
+.container{
+	background-color:white; 
+	margin :7%; 
+	padding:3%;
+}
+.btn{
+	width:14%;
+	background-color:#0000ff1c;
+	border-radius:44%;
+}
+.btn_send{
+	width:60%;
+	background-color:#0000ff1c;
+}
+a:hover{
+	text-color:blue;
+}
+.inp_data{
+	margin-bottom:3%;
+}
+
+input{
+	width:30%;
+}
+#keyword{
+	margin-left:10%;
+}
+#settings{
+	margin-left:10%;
+	height:175px;
+}
+.left{
+	float:left;
+}
+.right{
+	float:right;
+	margin-right:20%;
+}
